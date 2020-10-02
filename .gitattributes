@@ -2,3 +2,4 @@
 *.html linguist-language=Java
 *.css linguist-language=Java
 *.js linguist-language=Java
+*.Rmd linguist-language=Java
