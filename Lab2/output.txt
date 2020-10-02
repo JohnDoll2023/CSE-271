@@ -1,0 +1,10 @@
+Numbers:
+[28, 48, 47, 31, 57]
+Sorted Numbers:
+[28, 31, 47, 48, 57]
+
+Number of odd numbers: 3
+Number of even numbers: 2
+Smallest number: 28
+Largest number: 57
+Mean:42.2
