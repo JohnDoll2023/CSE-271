@@ -1,0 +1,7 @@
+John, 19, Miami, Lousiville
+Lauren, 18, HS, upstairs
+Nathan, 15, Ms, dwonstairs
+J, M, D, E
+John, 713, 567, dolljm
+Jacob, 715, L, M
+Mark, 719, Mason, marks
