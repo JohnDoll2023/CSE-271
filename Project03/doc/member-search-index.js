@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Glome","l":"getVolume()"},{"p":"<Unnamed>","c":"Glome","l":"Glome(double, String)","url":"%3Cinit%3E(double,java.lang.String)"},{"p":"<Unnamed>","c":"Glome","l":"toString()"}]
