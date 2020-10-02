@@ -1,3 +1,4 @@
 #Set a more accurate representation of what this repo represents
 *.html linguist-language=Java
 *.css linguist-language=Java
+*.js linguist-language=Java
