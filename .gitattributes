@@ -1,0 +1,3 @@
+#Set a more accurate representation of what this repo represents
+*.Rmd linguist-language=R
+*.html linguist-language=R
